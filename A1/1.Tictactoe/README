@@ -1,0 +1,4 @@
+To start TTT game: 
+require_relative 'Game'
+ttt = Game.new
+ttt.startGame
